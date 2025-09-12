@@ -19,6 +19,6 @@
 **Other:** Git & GitHub, HTML/CSS, AI/ML basics  
 
 ## Connect
-- 📄 [Resume (PDF)](link-to-your-CV)  
+- 📄 [Resume (PDF)](https://drive.google.com/file/d/1U2MvWdJAgBvpnkY66cR9Uu8M7MD-F2m_/view?usp=sharing)  
 - 🔗 [LinkedIn](https://linkedin.com/in/arbhajdari)  
 - 💻 [GitHub](https://github.com/arbhajdari)  
