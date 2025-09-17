@@ -8,8 +8,8 @@
 - Focused on full-stack development, cloud technologies, and applying AI in real-world solutions**  
 
 ## Featured Projects
-- [**University Regulations Chatbot**](#) – AI-powered chatbot with GPT-4 + RAG (Node.js, Express, MongoDB)  
-- [**Industrial Project Showcase**](#) – Full-stack web app for managing student projects  
+- [**University Regulations Chatbot**](https://github.com/arbhajdari/university-regulations-chatbot) – AI-powered chatbot with GPT-4 + RAG (Node.js, Express, MongoDB)  
+- [**Industrial Project Showcase**](https://github.com/arbhajdari/invent-industrial-project) – Full-stack web app for managing student projects  
 - [**Wasteland Defender**](#) – Survival shooter game inspired by Space Invaders, enhanced with crafting, day/night cycles, enemy AI, and resource management (Python, Pygame)  
 
 
